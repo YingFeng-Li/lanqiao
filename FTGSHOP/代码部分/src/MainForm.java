@@ -39,7 +39,7 @@ public class MainForm extends JFrame {
         JMenu discount = new JMenu("打折优惠");
         // 菜单项
         mHero.add(new JMenuItem("添加用户"));
-        supply.add(new JMenuItem("查看供应商"));
+        //supply.add(new JMenuItem("查看供应商"));
 
         JMenuItem viewUserMenuItem=new JMenuItem("查看供应商");
         viewUserMenuItem.addMouseListener(
@@ -72,7 +72,7 @@ public class MainForm extends JFrame {
                     }
                 }
         );
-        mHero.add(viewUserMenuItem);
+        supply.add(viewUserMenuItem);
         mHero.add(new JMenuItem("修改密码"));
 
         mItem.add(new JMenuItem("添加商品"));
@@ -124,7 +124,7 @@ public class MainForm extends JFrame {
         contentPane.setLayout(null);
 
         //---- label1 ----
-        label1.setText("供应商");
+        label1.setText("\u4f9b\u5e94\u5546\u4fe1\u606f");//供应商信息
         label1.setFont(label1.getFont().deriveFont(label1.getFont().getStyle() | Font.BOLD, label1.getFont().getSize() + 23f));
         contentPane.add(label1);
         label1.setBounds(350, 10, 155, 70);
