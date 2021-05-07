@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="624baa5f-3c6c-4a1f-844f-757ce1e7cce7" name="Default Changelist" comment="" />
+    <list default="true" id="624baa5f-3c6c-4a1f-844f-757ce1e7cce7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BIg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ojdbc5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FTGSHOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FTGSHOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/META-INF/FTGSHOP.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm.jfd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainForm.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainForm.jfd" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +31,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -23,6 +43,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1rszcl1fblY67Xsg0pUnkqw3kdM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,8 +51,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -89,30 +111,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="127" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1619779936729" />
-    <state x="445" y="153" key="FileChooserDialogImpl" timestamp="1620199081763">
+    <state x="445" y="153" key="FileChooserDialogImpl" timestamp="1620393426178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="445" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620199081763" />
-    <state width="1493" height="156" key="GridCell.Tab.0.bottom" timestamp="1620196620396">
+    <state x="445" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620393426178" />
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom" timestamp="1620403705058">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="156" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620196620396" />
-    <state width="1493" height="156" key="GridCell.Tab.0.center" timestamp="1620196620396">
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620403705058" />
+    <state width="1493" height="165" key="GridCell.Tab.0.center" timestamp="1620403705057">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="156" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620196620396" />
-    <state width="1493" height="156" key="GridCell.Tab.0.left" timestamp="1620196620396">
+    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620403705057" />
+    <state width="1493" height="165" key="GridCell.Tab.0.left" timestamp="1620403705057">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="156" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620196620396" />
-    <state width="1493" height="156" key="GridCell.Tab.0.right" timestamp="1620196620396">
+    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620403705057" />
+    <state width="1493" height="165" key="GridCell.Tab.0.right" timestamp="1620403705058">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="156" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620196620396" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1620196192667">
+    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620403705058" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1620391774093">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1620196192667" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1620391774093" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1620195685053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -121,9 +143,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1620199083751" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1619783882431">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1620396925756">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1619783882431" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1620396925756" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1620397840625">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1620397840625" />
   </component>
 </project>
