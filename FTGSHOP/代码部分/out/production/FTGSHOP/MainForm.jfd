@@ -30,7 +30,7 @@ new FormModel {
 					"y": 10
 				} )
 				add( new FormComponent( "javax.swing.JButton" ) {
-					name: "button2"
+					name: "Addbuton"
 					"text": "增加"
 				}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
 					"x": 165

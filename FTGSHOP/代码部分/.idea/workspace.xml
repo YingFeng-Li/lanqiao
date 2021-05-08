@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="624baa5f-3c6c-4a1f-844f-757ce1e7cce7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BIg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/ojdbc5.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FTGSHOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FTGSHOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/META-INF/FTGSHOP.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/LoginForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/LoginForm$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/LoginForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/LoginForm.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FTGSHOP/MainForm.jfd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoginForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoginForm.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginForm.jfd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainForm.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainForm.jfd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +87,19 @@
       <option name="presentableId" value="Default" />
       <updated>1619779666523</updated>
     </task>
+    <task id="LOCAL-00001" summary="大概完成供应管理部分">
+      <created>1620403831959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620403831959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="大概完成供应管理部分" />
+    <option name="LAST_COMMIT_MESSAGE" value="大概完成供应管理部分" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Project_Structure" timestamp="1619779677787">
@@ -107,6 +110,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1620095541981" />
+    <state x="358" y="3" key="CommitChangelistDialog2" timestamp="1620461525412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="358" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1620461525412" />
     <state x="523" y="127" key="DetectedRootsChooserDialog" timestamp="1619779936729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -115,30 +122,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="445" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620393426178" />
-    <state width="1493" height="165" key="GridCell.Tab.0.bottom" timestamp="1620403705058">
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom" timestamp="1620461525467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620403705058" />
-    <state width="1493" height="165" key="GridCell.Tab.0.center" timestamp="1620403705057">
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620461525467" />
+    <state width="1493" height="165" key="GridCell.Tab.0.center" timestamp="1620461525467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620403705057" />
-    <state width="1493" height="165" key="GridCell.Tab.0.left" timestamp="1620403705057">
+    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620461525467" />
+    <state width="1493" height="165" key="GridCell.Tab.0.left" timestamp="1620461525467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620403705057" />
-    <state width="1493" height="165" key="GridCell.Tab.0.right" timestamp="1620403705058">
+    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620461525467" />
+    <state width="1493" height="165" key="GridCell.Tab.0.right" timestamp="1620461525467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620403705058" />
+    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620461525467" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1620391774093">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1620391774093" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1620195685053">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1620403857328">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620195685053" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1620403857328" />
+    <state x="49" y="46" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1620459710955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="49" y="46" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1620459710955" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1620456271294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620456271294" />
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620461491051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1620461491051" />
     <state x="178" y="22" key="new project wizard" timestamp="1620199083751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
